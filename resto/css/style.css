@@ -153,9 +153,9 @@ header .icons #menu-bars{
     color:#eee;
 }
 
-#search-form #search-box::-webkit-search-cancel-button{
+/* #search-form #search-box::-webkit-search-cancel-button{
     -webkit-appearance: none;
-}
+} */
 
 #search-form label{
     color:#fff;
